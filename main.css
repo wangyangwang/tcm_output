@@ -1,0 +1,20 @@
+
+        img {
+            max-width: 100%;
+            margin: 20px 0px;
+        }
+
+        body {
+            padding: 20px;
+            font-size: 12px;;
+            background: rgb(255, 255, 255);
+            line-height: 1.2em;
+            max-width: 500px;
+            margin: auto;
+        }
+        #auto-scroll-button {
+            position: fixed;
+            left: 20px;
+            top: 20px;
+
+        }
